@@ -119,6 +119,7 @@ p{
   color: crimson;
   margin-bottom: 10px;
 }
+
 button{
   padding: 10px;
   outline: none;
